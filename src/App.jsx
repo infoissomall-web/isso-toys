@@ -1,10 +1,8 @@
 
-export default function App() {
-  const products = [
     {
-      name: 'Stitch Toy',
-      price: '5900֏',
-      image: 'https://images.unsplash.com/photo-1558060370-d644479cb6f7?q=80&w=1200&auto=format&fit=crop',
+      name: 'Փափուկ խաղալիք  Արջուկ',
+      price: '4450֏',
+      image: '6945161490199.jpg',
     },
     {
       name: 'Plush Teddy Bear',
